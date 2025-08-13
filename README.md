@@ -96,7 +96,7 @@ sudo nano index.html
     <h1 style="text-align: center;">Welcome to My Static Website!</h1>
 
     <div style="text-align: center;">
-        <img src="http://your-bucket-name.s3.amazonaws.com/Coffee.png" alt="Coffee Image">
+        <img src="https://web-objects-13-8.s3.eu-north-1.amazonaws.com/Land+Cruiser+300+(1).jpg" alt="Portfolio">
     </div>
 </body>
 </html>
